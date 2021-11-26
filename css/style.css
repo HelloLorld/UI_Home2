@@ -1,0 +1,42 @@
+#container {
+  max-width: 1080px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 30px;
+}
+
+.inpCoef {
+  max-width: 30px;
+  border-radius: 5px;
+}
+
+table {
+  max-width: 50%;
+  margin: 0 auto;
+}
+
+th {
+    padding: 15px;
+}
+
+td {
+    padding: 15px;
+}
+
+caption {
+    font-size: 18px;
+    font-style: italic;
+}
+
+.delButton {
+    font-size: 18px;
+    margin-top: auto;
+}
+
+.whiteRow {
+  background-color: white;
+}
+
+.otherRow {
+  background-color: thistle;
+}
